@@ -1,0 +1,19 @@
+﻿  TimerMgr.cpp
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\timermgr.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  Player.cpp
+  NPCFactory.cpp
+  main.cpp
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(565): warning C4018: '<': signed/unsigned mismatch
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(574): warning C4018: '<': signed/unsigned mismatch
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\main.cpp(643): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  InputManager.cpp
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\inputmanager.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\inputmanager.cpp(17): warning C4715: 'InputManager::Attach': not all control paths return a value
+c:\users\isabe\documents\personal\carleton\y2s1\programming\potvin_isabelle_a7_designpatterns\potvin_isabelle_a7_designpatterns\npcfactory.cpp(39): warning C4715: 'NPCFactory::createNPC': not all control paths return a value
+  Potvin_Isabelle_A7_DesignPatterns.vcxproj -> C:\Users\isabe\Documents\Personal\Carleton\Y2S1\Programming\Potvin_Isabelle_A7_DesignPatterns\Debug\Potvin_Isabelle_A7_DesignPatterns.exe
+  Potvin_Isabelle_A7_DesignPatterns.vcxproj -> C:\Users\isabe\Documents\Personal\Carleton\Y2S1\Programming\Potvin_Isabelle_A7_DesignPatterns\Debug\Potvin_Isabelle_A7_DesignPatterns.pdb (Partial PDB)
